@@ -1,0 +1,11 @@
+node_modules
+dist
+artifacts
+cache
+typechain
+typechain-types
+*.tsbuildinfo
+.env
+.env*
+secrets.json
+.DS_Store
